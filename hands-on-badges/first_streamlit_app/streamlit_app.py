@@ -1,4 +1,4 @@
-import streamlit, pandas, requests
+import streamlit, pandas, requests, snowflake.connector
 
 streamlit.title('My Parents New Healthy Diner')
 
